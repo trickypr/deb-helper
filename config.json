@@ -1,0 +1,6 @@
+{
+  "mirror": "http://mirror.aarnet.edu.au/debian/",
+  "version": "buster",
+  "arch": "amd64",
+  "tempFolder": "/tmp/"
+}

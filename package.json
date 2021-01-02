@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "2.2.1"
+  },
+  "dependencies": {
+    "download": "^8.0.0",
+    "node-unar": "^1.0.6",
+    "yargs": "^16.2.0"
+  }
+}
