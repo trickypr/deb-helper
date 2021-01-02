@@ -36,5 +36,5 @@ module.exports = async (query) => {
     .filter((pkg) => typeof pkg.package != 'undefined')
 
   console.log('Searching')
-  return packages.filter((pkg) => pkg.package.includes(query)
+  return packages.filter((pkg) => pkg.package.includes(query))
 }
